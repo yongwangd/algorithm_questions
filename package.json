@@ -1,0 +1,25 @@
+{
+  "name": "algorithm_questions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mergeSort.js",
+  "scripts": {
+    "test": "jest",
+    "test-watch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "Yong Wang <yongwangd@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^22.2.3",
+    "ramda": "^0.25.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0-beta.49",
+    "@babel/preset-env": "^7.0.0-beta.49",
+    "babel-core": "^7.0.0-0",
+    "babel-jest": "^23.0.1",
+    "jest": "^23.1.0",
+    "regenerator-runtime": "^0.11.1"
+  }
+}
