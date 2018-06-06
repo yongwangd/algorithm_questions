@@ -13,6 +13,6 @@ describe('Test QuickSelect Function', () => {
   test('5 smallest of [3,5,2,7,1] should be 3', () =>
     expect(quickSelect([3, 5, 2, 7, 1], 5)).toBe(7));
 
-  test('1 smallest of [3,5,2,7,1] should be 1', () =>
-    expect(quickSelect([3, 5, 2, 7, 1], 1)).toBe(1));
+  test('0 smallest of [3,5,2,7,1] should be undefined', () =>
+    expect(quickSelect([3, 5, 2, 7, 1], 0)).toBeUndefined());
 });
