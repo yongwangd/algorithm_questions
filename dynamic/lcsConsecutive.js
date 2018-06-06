@@ -52,7 +52,7 @@ console.log(
       .toLowerCase()
       .split(' ')
       .join(),
-    'While Google protected its monopoly on the dying search advertising market, Facebook — Google’s biggest competitor in the online advertising space — got on the right side of the trend and dominated online advertising with its in-feed native display advertisingn'
+    'While Google protected its emonopoly on the dying search advertising market, Facebook — Google’s biggest competitor in the online advertising space — got on the right side of the trend and dominated online advertising with its in-feed native display advertisingn'
       .toLowerCase()
       .split(' ')
       .join()
